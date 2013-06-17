@@ -17,7 +17,7 @@ required = [
 ]
 
 setup(
-    name='wikipedia_template_parser',
+    name='datatxt_querist',
     version='0.1',
     description='Simple library for extracting data from Wikipedia templates',
     author='Cristian Consonni',
